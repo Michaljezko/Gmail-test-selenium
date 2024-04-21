@@ -1,2 +1,2 @@
 # Gmail-test-selenium
-testing the functionality of gmail registration
+Testing the functionality of gmail registration
