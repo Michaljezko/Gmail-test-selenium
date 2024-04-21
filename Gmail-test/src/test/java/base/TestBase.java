@@ -13,7 +13,7 @@ public class TestBase {
         Configuration.holdBrowserOpen = true;
 //        Configuration.browser = "firefox";
 //        Configuration.browserSize = "1820x1080";
-//        Configuration.clickViaJs = true;
+        Configuration.clickViaJs = true;
         Configuration.reportsFolder = "src/test/resources/reportaze";
     }
 
